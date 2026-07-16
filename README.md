@@ -63,14 +63,14 @@ Me especializo en el desarrollo con **Python/Django**, pero disfruto enormemente
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valeveraleiva&show_icons=true&theme=rose&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeveraleiva&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaveral-collab&show_icons=true&theme=rose&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaveral-collab&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=valeveraleiva&theme=rose&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vaveral-collab&theme=rose&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/personal-counter/badge/?username=valeveraleiva&color=ff758c&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/personal-counter/badge/?username=vvaveral-collab&color=ff758c&style=flat-square" alt="Profile views" />
 </p>
