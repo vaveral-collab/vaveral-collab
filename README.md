@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,ff758c,ff7eb3&height=220&section=header&text=Hola,%20soy%20Vale!%20✨&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=220&section=header&text=Hola,%20soy%20Vale!%20✨&fontSize=45&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/valentina-vera-leiva" target="_blank">
+  <a href="www.linkedin.com/in/valentinaveraleiva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:valeveraleiva@gmail.com">
