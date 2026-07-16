@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=220&section=header&text=Valentina%20Vera!%20✨&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=220&section=header&text=Valentina%20Vera%20✨&fontSize=45&fontColor=ffffff" />
 </p>
 
 <p align="center">
