@@ -61,12 +61,6 @@ Me especializo en el desarrollo con **Python/Django**, pero disfruto enormemente
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaveral-collab&show_icons=true&theme=rose&hide_border=true" alt="GitHub Stats" width="48%" />
-width="48%" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vaveral-collab&theme=rose&hide_border=true" alt="GitHub Streak" />
 </p>
